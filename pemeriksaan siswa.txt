@@ -1,0 +1,7 @@
+READ siswa/siswi 40 orang
+if "siswa/siswi ada kuku panjang"
+DISPLAY "Menghukum siswa/siswi"
+else if siswa/siswi tidak ada kuku panjang
+DISPLAY "Memberi pujian"
+Else
+"Tidak ada pemeriksaan"

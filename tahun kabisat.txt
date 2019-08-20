@@ -1,0 +1,9 @@
+READ Tahun
+If tahun Mod = 4
+Then bukan tahun kabisat
+if else
+Then Bukan tahun kabisat
+else
+input lagi tahun
+end
+ 

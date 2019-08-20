@@ -1,0 +1,8 @@
+Read "pakaian"
+IF "pakaian" <=20
+Then Masukan ke mesin cuci
+If "pakain" <=20
+Then "pakain" tambahkan lagi
+else
+tidak mencuci pakaian
+Hasil(20)
